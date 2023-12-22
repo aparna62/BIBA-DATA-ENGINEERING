@@ -1,5 +1,0 @@
-import pandas as pd
-# Creating a Series from a tuple
-data = (9,4,2,1,5)
-series = pd.Series(data)
-print(series)
